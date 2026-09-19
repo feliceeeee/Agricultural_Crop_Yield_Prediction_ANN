@@ -36,14 +36,16 @@ The notebook was developed using Python and Jupyter Notebook.
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/your-username/agricultural-crop-yield-prediction.git
-   
+```
+git clone https://github.com/your-username/agricultural-crop-yield-prediction.git
+```
+
 2. Install the required libraries:
-   
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn tensorflow pyarrow jupyter
-   
-3. Ensure the dataset is located at: data/agricultural_crop_yield.parquet
-4. Open the notebook: notebooks/agricultural_crop_yield_prediction.ipynb
+
+```
+pip install pandas numpy matplotlib seaborn scikit-learn tensorflow pyarrow jupyter
+```
+
+3. Ensure the dataset is located at: `data/agricultural_crop_yield.parquet`
+4. Open the notebook: `notebooks/agricultural_crop_yield_prediction.ipynb`
 5. Run all cells to perform data preprocessing, exploratory data analysis, model training, and evaluation.
