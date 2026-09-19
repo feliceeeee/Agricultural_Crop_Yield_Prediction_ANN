@@ -37,7 +37,7 @@ The notebook was developed using Python and Jupyter Notebook.
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/agricultural-crop-yield-prediction.git
+git clone https://github.com/feliceeeee/Agricultural_Crop_Yield_Prediction_ANN.git
 ```
 
 2. Install the required libraries:
