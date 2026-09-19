@@ -47,5 +47,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow pyarrow jupy
 ```
 
 3. Ensure the dataset is located at: `data/agricultural_crop_yield.parquet`
-4. Open the notebook: `notebooks/agricultural_crop_yield_prediction.ipynb`
+4. Open the notebook: `notebook/Agricultural Crop Yield Prediction Using ANN.ipynb`
 5. Run all cells to perform data preprocessing, exploratory data analysis, model training, and evaluation.
